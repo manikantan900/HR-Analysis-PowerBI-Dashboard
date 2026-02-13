@@ -1,52 +1,53 @@
-📊 ## HR Analysis Power BI Dashboard
+📊 HR Analysis Power BI Dashboard
 
 🚀 An interactive HR Analytics Dashboard built using Power BI to analyze workforce trends, employee demographics, organizational structure, and business unit distribution.
 
 🎯 Project Objective
 
-To design and develop an executive-level HR analytics dashboard that transforms raw employee data into actionable insights for strategic decision-making in workforce planning, diversity monitoring, and organizational performance analysis.
+To design and develop an executive-level HR analytics dashboard that transforms raw employee data into actionable insights for strategic decision-making in:
 
-This project aims to:
+Workforce Planning
 
-Analyze workforce growth trends
+Diversity & Inclusion Monitoring
 
-Monitor gender diversity distribution
+Organizational Structure Evaluation
 
-Evaluate business unit performance
-
-Understand geographic workforce spread
-
-Examine organizational hierarchy structure
+Hiring Trend Analysis
 
 📌 Key Performance Indicators (KPIs)
 
 🔢 Total Employees: 999
+
 👩 Female Employees: 483 (48%)
+
 👨 Male Employees: 516 (52%)
+
 📅 Data Snapshot: 14-01-2026
 
 📈 Dashboard Insights & Analysis
 📊 Employee Headcount Trend
 
-Time-series analysis of workforce growth
+Time-series visualization of workforce growth
 
-Identifies hiring acceleration phases
+Identifies hiring acceleration periods
+
+Tracks long-term expansion trends
 
 👥 Gender Distribution
 
-48% Female
+Female: 48%
 
-52% Male
+Male: 52%
 
-Diversity tracking support
+Supports diversity analysis
 
 🎂 Age Group Distribution
 
 Workforce segmentation by age
 
-Succession planning insights
+Useful for succession and retirement planning
 
-🌍 Country Distribution
+🌍 Country-Wise Distribution
 
 United States: 633
 
@@ -54,7 +55,11 @@ China: 226
 
 Brazil: Remaining distribution
 
+Identifies geographic workforce concentration
+
 🏢 Business Unit Distribution
+
+Treemap representation of:
 
 Specialty Products (265)
 
@@ -64,19 +69,21 @@ Research & Development (253)
 
 Manufacturing (225)
 
-🧑‍💼 Role Hierarchy Breakdown
+🧑‍💼 Organizational Role Structure
+
+Breakdown by hierarchy:
 
 Manager
 
-VP
+Vice President
 
 Director
 
-Sr. Manager
+Senior Manager
 
 Analyst
 
-Sr. Analyst
+Senior Analyst
 
 Account Representative
 
@@ -87,25 +94,27 @@ Account Representative
 ✔ Country filter
 ✔ Employee Name dropdown
 
-All visuals dynamically update based on selections.
+All visuals dynamically update based on filter selections.
 
 📸 Dashboard Preview
 
-⚠️ Open the PBIX file in Power BI Desktop for full interactivity.
+⚠️ Screenshot is a static preview. Download the PBIX file for full interactivity.
 
 🛠️ Technical Skills Demonstrated
 
 Power BI Desktop
 
-DAX Calculations
+Data Modeling & Relationships
 
-Data Modeling
+DAX Measures & Calculations
 
-KPI Development
+KPI Card Design
 
-Interactive Reporting
+Treemap, Donut, Bar & Line Charts
 
-Business Intelligence Design
+Interactive Slicers
+
+Business Intelligence Reporting
 
 📂 Repository Structure
 ```
@@ -119,5 +128,5 @@ HR-Analysis-PowerBI-Dashboard/
 
 👨‍💻 Author
 
-Mani Kantan
+ManiKantan P
 Business Analyst | Power BI | SQL | Python
