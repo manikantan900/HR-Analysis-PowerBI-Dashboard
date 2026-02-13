@@ -1,4 +1,4 @@
-📊 HR Analysis Power BI Dashboard
+📊 ## HR Analysis Power BI Dashboard
 
 🚀 An interactive HR Analytics Dashboard built using Power BI to analyze workforce trends, employee demographics, organizational structure, and business unit distribution.
 
