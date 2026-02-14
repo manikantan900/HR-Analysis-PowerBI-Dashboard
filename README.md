@@ -98,12 +98,9 @@ All visuals dynamically update based on filter selections.
 
 ## 📸 Dashboard Preview
 
-<p align="center">
-  <img src="results/hranalysis_dashboard_overview.png" alt="HR Analysis Power BI Dashboard" width="900"/>
-</p>
+![HR Analysis Dashboard](results/hranalysis_dashboard_overview.png)
 
 > 🔎 Static preview of the dashboard. Download the PBIX file from the `powerbi_reports/` folder for full interactivity.
-
 
 ⚠️ Screenshot is a static preview. Download the PBIX file for full interactivity.
 
