@@ -1,8 +1,8 @@
-📊 HR Analysis Power BI Dashboard
+## 📊 HR Analysis Power BI Dashboard
 
 🚀 An interactive HR Analytics Dashboard built using Power BI to analyze workforce trends, employee demographics, organizational structure, and business unit distribution.
 
-🎯 Project Objective
+## 🎯 Project Objective
 
 To design and develop an executive-level HR analytics dashboard that transforms raw employee data into actionable insights for strategic decision-making in:
 
@@ -14,7 +14,7 @@ Organizational Structure Evaluation
 
 Hiring Trend Analysis
 
-📌 Key Performance Indicators (KPIs)
+## 📌 Key Performance Indicators (KPIs)
 
 🔢 Total Employees: 999
 
@@ -33,7 +33,7 @@ Identifies hiring acceleration periods
 
 Tracks long-term expansion trends
 
-👥 Gender Distribution
+## 👥 Gender Distribution
 
 Female: 48%
 
@@ -41,13 +41,13 @@ Male: 52%
 
 Supports diversity analysis
 
-🎂 Age Group Distribution
+## 🎂 Age Group Distribution
 
 Workforce segmentation by age
 
 Useful for succession and retirement planning
 
-🌍 Country-Wise Distribution
+## 🌍 Country-Wise Distribution
 
 United States: 633
 
@@ -57,7 +57,7 @@ Brazil: Remaining distribution
 
 Identifies geographic workforce concentration
 
-🏢 Business Unit Distribution
+## 🏢 Business Unit Distribution
 
 Treemap representation of:
 
@@ -69,7 +69,7 @@ Research & Development (253)
 
 Manufacturing (225)
 
-🧑‍💼 Organizational Role Structure
+## 🧑‍💼 Organizational Role Structure
 
 Breakdown by hierarchy:
 
@@ -87,7 +87,7 @@ Senior Analyst
 
 Account Representative
 
-🎛️ Interactive Features
+## 🎛️ Interactive Features
 
 ✔ Hire Date slicer
 ✔ Business Unit filter
@@ -96,11 +96,18 @@ Account Representative
 
 All visuals dynamically update based on filter selections.
 
-📸 Dashboard Preview
+## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="results/hranalysis_dashboard_overview.png" alt="HR Analysis Power BI Dashboard" width="900"/>
+</p>
+
+> 🔎 Static preview of the dashboard. Download the PBIX file from the `powerbi_reports/` folder for full interactivity.
+
 
 ⚠️ Screenshot is a static preview. Download the PBIX file for full interactivity.
 
-🛠️ Technical Skills Demonstrated
+## 🛠️ Technical Skills Demonstrated
 
 Power BI Desktop
 
@@ -116,7 +123,7 @@ Interactive Slicers
 
 Business Intelligence Reporting
 
-📂 Repository Structure
+## 📂 Repository Structure
 ```
 HR-Analysis-PowerBI-Dashboard/
 │
@@ -128,5 +135,5 @@ HR-Analysis-PowerBI-Dashboard/
 
 👨‍💻 Author
 
-ManiKantan P
+## ManiKantan P
 Business Analyst | Power BI | SQL | Python
