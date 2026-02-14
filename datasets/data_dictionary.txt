@@ -1,0 +1,14 @@
+# 📊 HR Employee Dataset - Data Dictionary
+
+| Column Name | Description |
+|-------------|------------|
+| Employee_ID | Unique employee identifier |
+| First_Name | Employee first name |
+| Last_Name | Employee last name |
+| Gender | Employee gender |
+| Age | Employee age |
+| Country | Employee work location |
+| Business_Unit | Department name |
+| Job_Title | Employee job role |
+| Hire_Date | Date of joining |
+| Salary | Annual salary |
